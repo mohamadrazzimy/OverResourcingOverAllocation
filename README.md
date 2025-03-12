@@ -143,10 +143,7 @@ The Task Inspector panel will appear on the left side of the application window.
 
   
 
-### Download example:
 
-[**ProjectX.mpp**  
-_Edit description_drive.google.com](https://drive.google.com/file/d/1hlA4eVHNAu-56JoyVITxjRogPrqEsI-L/view?usp=sharing "https://drive.google.com/file/d/1hlA4eVHNAu-56JoyVITxjRogPrqEsI-L/view?usp=sharing")[](https://drive.google.com/file/d/1hlA4eVHNAu-56JoyVITxjRogPrqEsI-L/view?usp=sharing)
 
   
 
